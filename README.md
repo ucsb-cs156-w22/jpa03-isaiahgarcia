@@ -2,7 +2,7 @@
 
 [![codecov](https://codecov.io/gh/ucsb-cs156-w22/jpa03-isaiahgarcia/branch/master/graph/badge.svg?token=ONL74WkqMo)](https://codecov.io/gh/ucsb-cs156-w22/jpa03-isaiahgarcia)
 
-Storybook is here:
+Storybook is hre:
 
 - Production: <https://ucsb-cs156-w22.github.io/jpa03-isaiahgarcia-docs/storybook>
 - QA: <https://ucsb-cs156-w22.github.io/jpa03-isaiahgarcia-docs-qa/storybook>
